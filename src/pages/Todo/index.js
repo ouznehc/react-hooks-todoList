@@ -1,4 +1,5 @@
 import React, { useState, useCallback } from "react";
+import './index.css'
 
 import Header from "./header";
 import Section from "./section";

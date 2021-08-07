@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css'
 
-import Todo from './pages/Todo'
+import Todo from './pages/todo'
 
 ReactDOM.render(
   (
