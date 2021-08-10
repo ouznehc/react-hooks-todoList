@@ -17,5 +17,6 @@ ul li{border-left: 5px solid #999;opacity: 0.5;}
 li a{position:absolute;top:2px;right:5px;display:inline-block;width:14px;height:12px;border-radius:14px;border:6px double #FFF;background:#CCC;line-height:10px;text-align:center;color:#FFF;font-weight:bold;font-size:14px;cursor:pointer;}
 footer{color:#666;font-size:14px;text-align:center;}
 footer a{color:#666;text-decoration:none;color:#999;}
+footer a:hover{cursor: pointer;color: darkred;}
 @media screen and (max-device-width: 620px) {section{width:96%;padding:0 2%;}}
 @media screen and (min-width: 620px) {section{width:600px;padding:0 10px;}}

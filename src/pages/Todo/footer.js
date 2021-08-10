@@ -7,7 +7,7 @@ const Footer = () => {
   }
   return (
     <footer>
-			Copyright &copy; 2014 todolist.cn <a onClick={clear} style={{cursor: 'pointer'}}> &nbsp; Clear All </a>
+			Copyright &copy; 2014 todolist.cn <a onClick={clear}> &nbsp; Clear All </a>
 		</footer>
   )
 }
